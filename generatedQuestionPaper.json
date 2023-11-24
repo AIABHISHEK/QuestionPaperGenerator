@@ -1,0 +1,123 @@
+{
+  "numberOfQuestions": 15,
+  "category": {
+    "numberOfQuestions": {
+      "History": 2,
+      "Geography": 8,
+      "Biology": 5
+    },
+    "totalMarks": {
+      "History": 6,
+      "Geography": 8,
+      "Biology": 6
+    }
+  },
+  "totalMarks": 20,
+  "questionPaper": [
+    {
+      "question": "What is the significance of the Magna Carta?",
+      "subject": "History",
+      "topic": "Medieval History",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the significance of the Declaration of Independence?",
+      "subject": "History",
+      "topic": "American History",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "What is the capital of Brazil?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the capital of India?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "subject": "Geography",
+      "topic": "World Geography",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "How many continents are there on Earth?",
+      "subject": "Geography",
+      "topic": "World Geography",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the function of the cell membrane?",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the largest mammal on Earth?",
+      "subject": "Biology",
+      "topic": "Marine Biology",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the main function of the liver?",
+      "subject": "Biology",
+      "topic": "Human Anatomy",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the process by which plants make their own food using sunlight?",
+      "subject": "Biology",
+      "topic": "Photosynthesis",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the main function of the Golgi apparatus in a cell?",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Easy",
+      "marks": 1
+    }
+  ]
+}

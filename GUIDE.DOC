@@ -1,0 +1,10 @@
+Let's first understand project structure 
+root directory conatin following files and folders
+
+models
+services
+utils
+app.js
+
+
+1.Models
