@@ -4,7 +4,7 @@
 node app
 ```
 This will run app.js file.
-Which will update the questions.json file with new questions.
+Which will update the json(generatedQuestionPaper1.json, generatedQuestionPaper2.json, generatedQuestionPaper3.json) file with new questions.
 Check app.js to change the input
 parameters and generate questions. 
 
