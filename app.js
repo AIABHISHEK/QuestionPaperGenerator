@@ -25,11 +25,13 @@ const subjectDistribution = { "Physics": 30, "Mathematics": 20, "Chemistry": 50 
 
 //Example 1
 const generatedQuestionPaper1 = questionPaperGeneratorService.generateQuestionPaper(100, difficultyDistribution);
+//generated question paper updated in generatedQuestionPaper1.json file
 writeJSONToFile('generatedQuestionPaper1.json', generatedQuestionPaper1);
 
 
 //Example 2
 const generatedQuestionPaper2 = questionPaperGeneratorService.generateQuestionsBySubject(subjectDistribution, 8);
+//generated question paper updated in generatedQuestionPaper2.json file
 writeJSONToFile('generatedQuestionPaper2.json', generatedQuestionPaper2);
 
 //Example 3
@@ -38,5 +40,6 @@ const generatedQuestionPaper3 = questionPaperGeneratorService.generateQuestionPa
     { "History": 30, "Geography": 40, "Biology": 30 },
     "Subject"
 )
+//generated question paper updated in generatedQuestionPaper3.json file
 writeJSONToFile('generatedQuestionPaper3.json', generatedQuestionPaper3);
 

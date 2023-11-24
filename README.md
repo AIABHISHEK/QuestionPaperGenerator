@@ -1,3 +1,16 @@
+# To run the code, run the following command: 
+
+```
+node app
+```
+This will run app.js file.
+Which will update the questions.json file with new questions.
+Check app.js to change the input
+parameters and generate questions. 
+
+
+## Class Used In this Project are as follows with explanation:
+
 # QuestionPaperGeneratorService
 
 The `QuestionPaperGeneratorService` class is responsible for generating question papers based on various distributions and criteria.
