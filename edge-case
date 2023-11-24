@@ -1,3 +1,0 @@
-if number of question in the list is less than required then we will get incorrect result
-
-in case of getting the number of questions for each we can employ the strategy of assign questions of each difficulty level in the one by one but this will increase the time comlexity of thy program sso we need to we can think of this solution if floor value is less is 0 we can increase the number of questions of previous level as we know e will not able to get the questions this and in case if we get will increase the totalmarks difference between the atual and the resulted totalmarks

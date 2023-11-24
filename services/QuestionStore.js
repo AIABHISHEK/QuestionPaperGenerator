@@ -1,4 +1,3 @@
-// const Question = require('../models/Question');
 
 class QuestionService {
     

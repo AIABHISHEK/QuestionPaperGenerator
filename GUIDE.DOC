@@ -8,3 +8,14 @@ app.js
 
 
 1.Models
+Thsi folder conatins a file Question.js which conatins info about how question object is structured
+
+2.Services
+This folder conatins a file QuestionPaperGenerator.js which conatins all the logic for generating question paper and a file QuestionsStore.js which conatins all the logic for storing and retrieving questions of different types
+
+3.Utils
+This folder conatins a file fileUtils.js which conatins all the utility functions
+for writing and reading json files
+
+4.app.js
+This file imports the  classes and provide a way to fuctions for generating question paper

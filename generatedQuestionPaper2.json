@@ -1,0 +1,72 @@
+{
+  "totalQuestionsBySubject": {
+    "Physics": 3,
+    "Mathematics": 2,
+    "Chemistry": 4
+  },
+  "questionPaper": [
+    {
+      "question": "In physics, what is the formula for calculating work?",
+      "subject": "Physics",
+      "topic": "Work and Energy",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the formula for calculating work in physics?",
+      "subject": "Physics",
+      "topic": "Mechanics",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "subject": "Physics",
+      "topic": "Relativity",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the formula for calculating the area of a rectangle?",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the value of pi (π) to two decimal places?",
+      "subject": "Mathematics",
+      "topic": "Geometry",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the chemical formula for table salt?",
+      "subject": "Chemistry",
+      "topic": "Chemical Compounds",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "subject": "Chemistry",
+      "topic": "Chemical Elements",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "In chemistry, what is the symbol for the element carbon?",
+      "subject": "Chemistry",
+      "topic": "Chemical Elements",
+      "difficulty": "Easy",
+      "marks": 1
+    }
+  ]
+}

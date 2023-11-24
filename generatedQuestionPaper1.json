@@ -1,0 +1,375 @@
+{
+  "numberOfQuestions": 51,
+  "category": {
+    "numberOfQuestions": {
+      "Easy": 20,
+      "Medium": 25,
+      "Hard": 6
+    },
+    "totalMarks": {
+      "Easy": 20,
+      "Medium": 50,
+      "Hard": 30
+    }
+  },
+  "totalMarks": 100,
+  "questionPaper": [
+    {
+      "question": "What is the capital of Canada?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Which planet is known as the 'Blue Planet'?",
+      "subject": "Astronomy",
+      "topic": "Planets",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the chemical formula for methane?",
+      "subject": "Chemistry",
+      "topic": "Chemical Compounds",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the capital of Argentina?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "subject": "Geography",
+      "topic": "World Geography",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Which ocean is the largest?",
+      "subject": "Geography",
+      "topic": "Oceans",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "In physics, what is the formula for calculating work?",
+      "subject": "Physics",
+      "topic": "Work and Energy",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the capital of Russia?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the capital of China?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "In physics, what is the SI unit of force?",
+      "subject": "Physics",
+      "topic": "Mechanics",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Which organelle is responsible for protein synthesis in a cell?",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the primary function of the mitochondria?",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "In JavaScript, what is the purpose of the 'for' loop?",
+      "subject": "JavaScript",
+      "topic": "Programming",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "In software development, what does the term 'API' stand for?",
+      "subject": "Software Development",
+      "topic": "Programming",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "subject": "Chemistry",
+      "topic": "Chemical Elements",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the capital of India?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the process of photosynthesis?",
+      "subject": "Biology",
+      "topic": "Botany",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the function of the cell membrane?",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the largest mammal on Earth?",
+      "subject": "Biology",
+      "topic": "Marine Biology",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "What is the meaning of the word 'Surreptitious'?",
+      "subject": "English",
+      "topic": "Vocabulary",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Which programming language is known for its asynchronous nature?",
+      "subject": "Technology",
+      "topic": "Programming Languages",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the speed of light in a vacuum?",
+      "subject": "Physics",
+      "topic": "Optics",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the meaning of the term 'Algorithm'?",
+      "subject": "Technology",
+      "topic": "Computer Science",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who discovered the theory of evolution by natural selection?",
+      "subject": "Biology",
+      "topic": "Evolution",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who is known as the 'Father of the Internet'?",
+      "subject": "Computer Science",
+      "topic": "Internet History",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who discovered the double helix structure of DNA?",
+      "subject": "Biology",
+      "topic": "Genetics",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet'?",
+      "subject": "Astronomy",
+      "topic": "Planets",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth?",
+      "subject": "Physics",
+      "topic": "Gravity",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "subject": "Literature",
+      "topic": "Drama",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the function of mitochondria in a cell?",
+      "subject": "Biology",
+      "topic": "Cell Biology",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the formula for calculating work in physics?",
+      "subject": "Physics",
+      "topic": "Mechanics",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "subject": "Physics",
+      "topic": "Relativity",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "In which year did Christopher Columbus reach the Americas?",
+      "subject": "History",
+      "topic": "Exploration",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "subject": "History",
+      "topic": "U.S. Presidents",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the capital of France?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who painted 'Starry Night'?",
+      "subject": "Art",
+      "topic": "Post-Impressionism",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "In which year did the first manned moon landing occur?",
+      "subject": "Space Exploration",
+      "topic": "Moon Landing",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who is the author of 'The Great Gatsby'?",
+      "subject": "Literature",
+      "topic": "Novel",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who is known as the 'Father of Computer Science'?",
+      "subject": "Computer Science",
+      "topic": "History of Computing",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who wrote the 'Declaration of Independence'?",
+      "subject": "History",
+      "topic": "American Revolution",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who is considered the 'Father of Modern Physics'?",
+      "subject": "Physics",
+      "topic": "Physics Pioneers",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the function of a router in a computer network?",
+      "subject": "Technology",
+      "topic": "Networking",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "subject": "History",
+      "topic": "20th Century",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "In which century did the Renaissance period begin?",
+      "subject": "History",
+      "topic": "Renaissance",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "subject": "Literature",
+      "topic": "Modern Classics",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "Who is known as the 'Father of Computer Science'?",
+      "subject": "Technology",
+      "topic": "Computer Science",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "What is the formula for calculating velocity?",
+      "subject": "Physics",
+      "topic": "Motion",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Which Shakespearean play features the character Macbeth?",
+      "subject": "Literature",
+      "topic": "Shakespeare",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "What is the boiling point of water in Celsius?",
+      "subject": "Chemistry",
+      "topic": "Physical Chemistry",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Hard",
+      "marks": 5
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "subject": "Chemistry",
+      "topic": "Elements",
+      "difficulty": "Hard",
+      "marks": 5
+    }
+  ]
+}

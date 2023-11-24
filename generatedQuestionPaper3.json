@@ -1,10 +1,10 @@
 {
-  "numberOfQuestions": 15,
+  "numberOfQuestions": 13,
   "category": {
     "numberOfQuestions": {
       "History": 2,
-      "Geography": 8,
-      "Biology": 5
+      "Geography": 7,
+      "Biology": 4
     },
     "totalMarks": {
       "History": 6,
@@ -29,35 +29,21 @@
       "marks": 5
     },
     {
-      "question": "What is the capital of Brazil?",
+      "question": "What is the capital of France?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the capital of Australia?",
       "subject": "Geography",
       "topic": "World Capitals",
       "difficulty": "Easy",
       "marks": 1
     },
     {
-      "question": "What is the capital of India?",
-      "subject": "Geography",
-      "topic": "World Capitals",
-      "difficulty": "Easy",
-      "marks": 1
-    },
-    {
-      "question": "What is the capital of Argentina?",
-      "subject": "Geography",
-      "topic": "World Capitals",
-      "difficulty": "Easy",
-      "marks": 1
-    },
-    {
-      "question": "Which country is known as the 'Land of the Rising Sun'?",
-      "subject": "Geography",
-      "topic": "World Geography",
-      "difficulty": "Easy",
-      "marks": 1
-    },
-    {
-      "question": "What is the capital of Japan?",
+      "question": "What is the capital of China?",
       "subject": "Geography",
       "topic": "World Capitals",
       "difficulty": "Easy",
@@ -71,37 +57,44 @@
       "marks": 1
     },
     {
-      "question": "What is the capital of Australia?",
+      "question": "What is the capital of South Africa?",
       "subject": "Geography",
       "topic": "World Capitals",
       "difficulty": "Easy",
       "marks": 1
     },
     {
-      "question": "How many continents are there on Earth?",
+      "question": "What is the capital of India?",
       "subject": "Geography",
-      "topic": "World Geography",
+      "topic": "World Capitals",
       "difficulty": "Easy",
       "marks": 1
     },
     {
-      "question": "What is the function of the cell membrane?",
+      "question": "What is the capital of Japan?",
+      "subject": "Geography",
+      "topic": "World Capitals",
+      "difficulty": "Easy",
+      "marks": 1
+    },
+    {
+      "question": "Who discovered the theory of evolution by natural selection?",
+      "subject": "Biology",
+      "topic": "Evolution",
+      "difficulty": "Medium",
+      "marks": 2
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
       "subject": "Biology",
       "topic": "Cell Biology",
       "difficulty": "Easy",
       "marks": 1
     },
     {
-      "question": "What is the largest mammal on Earth?",
+      "question": "What is the function of mitochondria in a cell?",
       "subject": "Biology",
-      "topic": "Marine Biology",
-      "difficulty": "Easy",
-      "marks": 1
-    },
-    {
-      "question": "What is the main function of the liver?",
-      "subject": "Biology",
-      "topic": "Human Anatomy",
+      "topic": "Cell Biology",
       "difficulty": "Medium",
       "marks": 2
     },
@@ -109,13 +102,6 @@
       "question": "What is the process by which plants make their own food using sunlight?",
       "subject": "Biology",
       "topic": "Photosynthesis",
-      "difficulty": "Easy",
-      "marks": 1
-    },
-    {
-      "question": "What is the main function of the Golgi apparatus in a cell?",
-      "subject": "Biology",
-      "topic": "Cell Biology",
       "difficulty": "Easy",
       "marks": 1
     }
